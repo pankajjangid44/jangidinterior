@@ -1,0 +1,17 @@
+{
+  "name": "jangid-interior",
+  "version": "1.0.0",
+  "description": "Jangid Interior portfolio and client enquiry manager",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mysql2": "^3.12.0"
+  }
+}

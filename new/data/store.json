@@ -1,0 +1,68 @@
+{
+  "gallery": [
+    {
+      "id": "42c00414-45a9-4dc6-abdb-f412b94b2024",
+      "title": "bed",
+      "category": "Living Rooms",
+      "src": "/uploads/5cba8c91-5998-4b18-8a45-6c56186b5571.jpg",
+      "createdAt": "2026-08-16T05:37:01.035Z"
+    },
+    {
+      "id": "living-01",
+      "title": "Sculpted Living Room",
+      "category": "Living Rooms",
+      "src": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "kitchen-01",
+      "title": "Midnight Modular Kitchen",
+      "category": "Kitchens",
+      "src": "https://images.unsplash.com/photo-1556912167-f556f1f39fdf?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "bedroom-01",
+      "title": "Soft Oak Master Suite",
+      "category": "Bedrooms",
+      "src": "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "office-01",
+      "title": "Focused Work Studio",
+      "category": "Commercial",
+      "src": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "living-02",
+      "title": "Sunlit Entertaining Area",
+      "category": "Living Rooms",
+      "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "kitchen-02",
+      "title": "Warm Minimal Kitchen",
+      "category": "Kitchens",
+      "src": "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "bedroom-02",
+      "title": "Layered Guest Bedroom",
+      "category": "Bedrooms",
+      "src": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "office-02",
+      "title": "Refined Reception Space",
+      "category": "Commercial",
+      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1400&q=85",
+      "createdAt": "2026-08-01T10:00:00.000Z"
+    }
+  ],
+  "leads": []
+}
